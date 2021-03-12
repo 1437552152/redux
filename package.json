@@ -42,7 +42,7 @@
     "object-assign": "4.1.1",
     "postcss-loader": "1.2.2",
     "promise": "7.1.1",
-    "react-dev-utils": "^0.5.2",
+    "react-dev-utils": "^11.0.4",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "react-transition-group": "^4.3.0",
